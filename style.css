@@ -1,0 +1,333 @@
+:root {
+  --cor-bg: #030303;
+  --cor-bg-elevada: #121212;
+  --cor-bg-hover: #1c1a13;
+  --cor-borda: #2c2a22;
+  --cor-ouro: #c59b27;
+  --cor-ouro-claro: #ddb84f;
+  --cor-texto: #f2f0ea;
+  --cor-texto-suave: #a3a099;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--cor-texto);
+  background: var(--cor-bg);
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: var(--cor-bg);
+  color: var(--cor-texto);
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+header .titulo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+header .header-logo {
+  height: 34px;
+  width: auto;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--cor-ouro);
+}
+
+#contador {
+  font-size: 0.9rem;
+  color: var(--cor-texto-suave);
+}
+
+#layout {
+  position: absolute;
+  top: 54px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+}
+
+#map {
+  flex: 1;
+  position: relative;
+  background: #1a1a1a;
+}
+
+/* --- sidebar: busca + lista --- */
+#sidebar {
+  width: 300px;
+  flex-shrink: 0;
+  background: var(--cor-bg-elevada);
+  border-right: 1px solid var(--cor-borda);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.busca {
+  padding: 12px;
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+#busca-input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--cor-borda);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: var(--cor-bg);
+  color: var(--cor-texto);
+}
+
+#busca-input::placeholder {
+  color: var(--cor-texto-suave);
+}
+
+#busca-input:focus {
+  outline: none;
+  border-color: var(--cor-ouro);
+  box-shadow: 0 0 0 2px rgba(197, 155, 39, 0.25);
+}
+
+#busca-contador {
+  font-size: 0.78rem;
+  color: var(--cor-texto-suave);
+  margin-top: 6px;
+}
+
+#lista-parceiros {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+#lista-parceiros li {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+#lista-parceiros li:hover {
+  background: var(--cor-bg-hover);
+}
+
+#lista-parceiros li.ativo {
+  background: var(--cor-bg-hover);
+  box-shadow: inset 3px 0 0 var(--cor-ouro);
+}
+
+#lista-parceiros li.oculto {
+  display: none;
+}
+
+#lista-parceiros img {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+  background: #2a2a2a;
+  border: 1px solid var(--cor-borda);
+}
+
+#lista-parceiros .info {
+  min-width: 0;
+}
+
+#lista-parceiros .nome {
+  font-weight: 600;
+  font-size: 0.86rem;
+  color: var(--cor-texto);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#lista-parceiros .empresa {
+  font-size: 0.74rem;
+  color: var(--cor-texto-suave);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#lista-parceiros .vazio {
+  padding: 16px 12px;
+  color: var(--cor-texto-suave);
+  font-size: 0.85rem;
+  cursor: default;
+}
+
+@media (max-width: 700px) {
+  #layout { flex-direction: column; }
+  #sidebar { width: 100%; height: 45%; border-right: none; border-bottom: 1px solid var(--cor-borda); }
+  #map { flex: 1; }
+}
+
+/* --- marcador customizado --- */
+.parceiro-pin {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.6));
+}
+
+.parceiro-pin svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.parceiro-pin .pin-logo {
+  position: absolute;
+  top: 6px;
+  left: 50%;
+  width: 13px;
+  height: 18px;
+  transform: translateX(-50%);
+  background-image: url("assets/seven-santos-mark.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  pointer-events: none;
+}
+
+/* --- botão "ver todos" --- */
+.botao-reset {
+  background: var(--cor-bg-elevada);
+  color: var(--cor-ouro);
+  border: 1px solid var(--cor-ouro);
+  border-radius: 6px;
+  padding: 7px 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  white-space: nowrap;
+}
+
+.botao-reset:hover {
+  background: var(--cor-ouro);
+  color: #030303;
+}
+
+/* --- popup --- */
+.leaflet-popup-content-wrapper {
+  background: var(--cor-bg-elevada);
+  color: var(--cor-texto);
+  border: 1px solid var(--cor-borda);
+  border-radius: 10px;
+}
+
+.leaflet-popup-tip {
+  background: var(--cor-bg-elevada);
+  border: 1px solid var(--cor-borda);
+}
+
+.leaflet-popup-close-button {
+  color: var(--cor-ouro) !important;
+}
+
+.leaflet-popup-close-button:hover {
+  color: var(--cor-ouro-claro) !important;
+}
+
+.popup-parceiro {
+  width: 220px;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.popup-parceiro .foto {
+  display: block;
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 6px;
+  margin: 0 auto 8px;
+  background: #2a2a2a;
+  border: 1px solid var(--cor-borda);
+}
+
+.popup-parceiro h3 {
+  margin: 0 0 2px;
+  font-size: 1.02rem;
+  color: var(--cor-ouro);
+}
+
+.popup-parceiro .empresa {
+  font-weight: 600;
+  color: var(--cor-texto-suave);
+  margin: 0 0 6px;
+}
+
+.popup-parceiro .campo {
+  margin: 2px 0;
+  color: var(--cor-texto);
+}
+
+.popup-parceiro .campo strong {
+  color: var(--cor-texto-suave);
+}
+
+.popup-parceiro .campo a {
+  color: var(--cor-ouro-claro);
+}
+
+.popup-parceiro .links {
+  margin-top: 8px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.popup-parceiro .links a {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.popup-parceiro .links a.site {
+  background: var(--cor-ouro);
+  color: #030303;
+}
+
+.popup-parceiro .links a.site:hover {
+  background: var(--cor-ouro-claro);
+}
+
+.popup-parceiro .links a.instagram {
+  background: transparent;
+  color: var(--cor-ouro);
+  border: 1px solid var(--cor-ouro);
+}
+
+.popup-parceiro .links a.instagram:hover {
+  background: rgba(197, 155, 39, 0.15);
+}

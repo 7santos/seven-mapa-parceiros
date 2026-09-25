@@ -1,0 +1,73 @@
+1:
+Nome: Gabriel Navarro
+Telefone: 83 98795-1213
+Site: https://gabrielnavarroimoveis.netlify.app
+Endereço: João Pessoa - PB
+Creci: 11419F
+
+2:
+Nome: Ana Paula Rossi 
+Telefone: (12) 98165-2037
+Site: https://www.minasgerais.imb.br/
+Endereço: Av. Cidade Jardim, 4898 - Bosque dos Eucaliptos, São José dos Campos - SP, 12232-000
+Creci: 325161
+Empresa: Minas Gerais Imóveis - Sjc
+
+3:
+Nome: Christian Andreves Bugmann
+Telefone: (47) 99600-6227
+Endereço: Blumenau & Litoral SC
+Creci: 59790F
+Instagram: @christianbugmanncorretor
+
+4:
+Nome: Rosvaldo
+Telefone: +55 12 98123-9993
+Site: https://www.rosvaldo.com/
+Endereço: Rua Barão de Jacareí 355 - Sala 02, Jacareí, SP, Brazil, 12308000
+Creci: 70758F
+Instagram: @rosvaldo_imobiliaria
+
+5:
+Nome: Gabriel Barretti
+Telefone: +55 19 99518-3030
+Site: https://imobiliariabarretti.com.br/
+Endereço: Rua do Rosário, 700, 2 andar, Centro, Piracicaba - SP - 13400-183
+Empresa: Barretti Imóveis
+
+6:
+Nome: Giovani Pivatto
+Telefone: 42 98811 8299
+Site: https://www.giovanipivatto.com.br/
+Endereço: Av. Ernesto Vilela 3037, Nova Rússia - Ponta Grossa, PR
+Creci:
+Empresa: Giovani Pivatto Negócios Imobiliários
+Instagram: @giovanipivatto
+
+7:
+Nome: Nilson Ferreira da Silva
+Telefone: (12)98114-3459
+Site:
+Endereço: R. Dr. Tito Roberto Liberato, 83 - Sala505 - Parque Res. Aquarius, São José dos Campos - SP, 12246-150
+Creci: 32634-J
+Empresa: Select Imobi LTDA
+Instagram:
+Email: contato@selectimobi.com.br
+
+8:
+Nome: Vicente Silva
+Telefone: 085 989972117
+Site: https://www.portorealimoveisce.com.br/
+Endereço: R. Joaquim Nabuco, 2305 - Dionísio Torres, Fortaleza - CE, 60135-200
+Creci:
+Empresa: Porto Real Imóveis
+Instagram:
+
+9:
+Nome: Peter Lima
+Telefone: 11 9 8282 6524
+Site: https://www.2iinteligenciaimobiliaria.com.br/
+Endereço: Endereço: Rua Açucena, 964, Jardim das Flores, Osasco, SP
+Creci: 41301j
+Empresa: 2I INTELIGENCIA IMOBILIARIA LTDA
+Instagram: https://www.instagram.com/2iimobiliaria/

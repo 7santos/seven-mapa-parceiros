@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapa de Parceiros — Seven Santos</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="titulo">
+      <img src="assets/seven-santos-mark.png" alt="" class="header-logo">
+      <h1>Parceiros Seven Santos</h1>
+    </div>
+    <span id="contador"></span>
+  </header>
+  <div id="layout">
+    <aside id="sidebar">
+      <div class="busca">
+        <input type="search" id="busca-input" placeholder="Buscar por nome ou empresa...">
+        <div id="busca-contador"></div>
+      </div>
+      <ul id="lista-parceiros"></ul>
+    </aside>
+    <div id="map"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gabriel-navarro",
+    "nome": "Gabriel Navarro",
+    "empresa": null,
+    "creci": "11419F",
+    "telefone": "83 98795-1213",
+    "site": "https://gabrielnavarroimoveis.netlify.app",
+    "instagram": null,
+    "endereco_texto": "João Pessoa - PB",
+    "foto": "img/01-gabriel-navarro.jpeg"
+  },
+  {
+    "id": "ana-paula-rossi",
+    "nome": "Ana Paula Rossi",
+    "empresa": "Minas Gerais Imóveis - Sjc",
+    "creci": "325161",
+    "telefone": "(12) 98165-2037",
+    "site": "https://www.minasgerais.imb.br/",
+    "instagram": null,
+    "endereco_texto": "Av. Cidade Jardim, 4898 - Bosque dos Eucaliptos, São José dos Campos - SP, 12232-000",
+    "foto": "img/02-ana-paula-rossi.jpeg"
+  },
+  {
+    "id": "christian-andreves-bugmann",
+    "nome": "Christian Andreves Bugmann",
+    "empresa": null,
+    "creci": "59790F",
+    "telefone": "(47) 99600-6227",
+    "site": null,
+    "instagram": "@christianbugmanncorretor",
+    "endereco_texto": "Blumenau & Litoral SC",
+    "foto": "img/03-christian-andreves-bugmann.jpeg"
+  },
+  {
+    "id": "rosvaldo",
+    "nome": "Rosvaldo",
+    "empresa": null,
+    "creci": "70758F",
+    "telefone": "+55 12 98123-9993",
+    "site": "https://www.rosvaldo.com/",
+    "instagram": "@rosvaldo_imobiliaria",
+    "endereco_texto": "Rua Barão de Jacareí 355 - Sala 02, Jacareí, SP, Brazil, 12308000",
+    "foto": "img/04-rosvaldo.png"
+  },
+  {
+    "id": "gabriel-barretti",
+    "nome": "Gabriel Barretti",
+    "empresa": "Barretti Imóveis",
+    "creci": null,
+    "telefone": "+55 19 99518-3030",
+    "site": "https://imobiliariabarretti.com.br/",
+    "instagram": null,
+    "endereco_texto": "Rua do Rosário, 700, 2 andar, Centro, Piracicaba - SP - 13400-183",
+    "foto": "img/05-gabriel-barretti.jpeg"
+  },
+  {
+    "id": "giovani-pivatto",
+    "nome": "Giovani Pivatto",
+    "empresa": "Giovani Pivatto Negócios Imobiliários",
+    "creci": null,
+    "telefone": "42 98811 8299",
+    "site": "https://www.giovanipivatto.com.br/",
+    "instagram": "@giovanipivatto",
+    "endereco_texto": "Av. Ernesto Vilela 3037, Nova Rússia - Ponta Grossa, PR",
+    "foto": "img/06-giovani-pivatto.jpeg"
+  },
+  {
+    "id": "nilson-ferreira-da-silva",
+    "nome": "Nilson Ferreira da Silva",
+    "empresa": "Select Imobi LTDA",
+    "creci": "32634-J",
+    "telefone": "(12)98114-3459",
+    "email": "contato@selectimobi.com.br",
+    "site": null,
+    "instagram": null,
+    "endereco_texto": "R. Dr. Tito Roberto Liberato, 83 - Sala505 - Parque Res. Aquarius, São José dos Campos - SP, 12246-150",
+    "foto": "img/07-nilson-ferreira-da-silva.jpeg"
+  },
+  {
+    "id": "vicente-silva",
+    "nome": "Vicente Silva",
+    "empresa": "Porto Real Imóveis",
+    "creci": null,
+    "telefone": "085 989972117",
+    "site": "https://www.portorealimoveisce.com.br/",
+    "instagram": null,
+    "endereco_texto": "R. Joaquim Nabuco, 2305 - Dionísio Torres, Fortaleza - CE, 60135-200",
+    "foto": "img/08-vicente-silva.jpeg"
+  },
+  {
+    "id": "peter-lima",
+    "nome": "Peter Lima",
+    "empresa": "2I INTELIGENCIA IMOBILIARIA LTDA",
+    "creci": "41301j",
+    "telefone": "11 9 8282 6524",
+    "site": "https://www.2iinteligenciaimobiliaria.com.br/",
+    "instagram": "https://www.instagram.com/2iimobiliaria/",
+    "endereco_texto": "Rua Açucena, 964, Jardim das Flores, Osasco, SP",
+    "foto": "img/09-peter-lima.jpeg"
+  }
+]
