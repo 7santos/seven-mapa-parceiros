@@ -144,7 +144,8 @@ async function init() {
   const buscaInput = document.getElementById("busca-input");
   const buscaContador = document.getElementById("busca-contador");
 
-  const parceirosComLocal = parceiros.filter((p) => markersPorId[p.id]);
+  const parceirosComLocal = parceiros.filter((p) => markersPorId[p.id])
+    .sort((a, b) => (a.nome || "").localeCompare(b.nome || "", "pt-BR", { sensitivity: "base" }));
 
   function renderLista() {
     listaEl.innerHTML = "";
