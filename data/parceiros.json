@@ -163,5 +163,20 @@
     "lat": -23.2274381,
     "lon": -45.9210871,
     "foto": "img/11-jonas-valente.jpeg"
+  },
+  {
+    "id": "carpejane-leal-da-silva",
+    "nome": "Carpejane Leal da Silva",
+    "empresa": null,
+    "creci": "GO 34850",
+    "telefone": null,
+    "email": null,
+    "site": null,
+    "instagram": null,
+    "endereco": "Rua 01 Qd.02 Lt.15 Bairro Eldorado, Anápolis - GO, 75115-410",
+    "endereco_precisao": "endereco",
+    "lat": -16.3452396,
+    "lon": -48.9463682,
+    "foto": "img/12-carpejane-leal-da-silva.jpeg"
   }
 ]

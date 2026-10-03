@@ -120,5 +120,16 @@
     "instagram": "@gardensjcimoveis",
     "endereco_texto": "Rua Nelson César de Oliveira, 470 - Jardim das Indústrias, São José dos Campos - SP, 12240-220",
     "foto": "img/11-jonas-valente.jpeg"
+  },
+  {
+    "id": "carpejane-leal-da-silva",
+    "nome": "Carpejane Leal da Silva",
+    "empresa": null,
+    "creci": "GO 34850",
+    "telefone": null,
+    "site": null,
+    "instagram": null,
+    "endereco_texto": "Rua 01 Qd.02 Lt.15 Bairro Eldorado, Cep: 75115-410, Anápolis - Goiás",
+    "foto": "img/12-carpejane-leal-da-silva.jpeg"
   }
 ]
