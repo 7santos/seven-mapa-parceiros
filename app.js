@@ -95,7 +95,7 @@ async function init() {
     if (typeof p.lat !== "number" || typeof p.lon !== "number") continue;
 
     const marker = L.marker([p.lat, p.lon], { icon: pinIcon }).addTo(map);
-    marker.bindPopup(popupHtml(p), { minWidth: 220, maxWidth: 220 });
+    marker.bindPopup(popupHtml(p), { minWidth: 220, maxWidth: 220, autoPan: true, autoPanPadding: [20, 20, 140, 20] });
 
     // a largura do popup é calculada antes da foto carregar; recalcula ao carregar
     marker.on("popupopen", (e) => {
@@ -103,6 +103,13 @@ async function init() {
       if (img && !img.complete) {
         img.addEventListener("load", () => e.popup.update());
       }
+      // ajusta verticalmente depois que o popup tem tamanho real
+      const content = e.popup._contentNode;
+      const h = content ? content.offsetHeight || 300 : 300;
+      const latlng = marker.getLatLng();
+      const pt = map.latLngToContainerPoint(latlng);
+      const target = map.containerPointToLatLng([pt.x, pt.y - h / 2 - 30]);
+      map.panTo(target, { animate: true, duration: 0.35 });
     });
 
     markersPorId[p.id] = marker;
@@ -165,7 +172,11 @@ async function init() {
     if (!p || !marker) return;
 
     map.flyTo([p.lat, p.lon], Math.max(map.getZoom(), ZOOM_FOCO), { duration: 0.8 });
-    marker.openPopup();
+
+    // só abre e ajusta verticalmente depois do zoom terminar
+    map.once("zoomend", () => {
+      marker.openPopup();
+    });
 
     listaEl.querySelectorAll("li.ativo").forEach((el) => el.classList.remove("ativo"));
     const li = listaEl.querySelector(`li[data-id="${id}"]`);

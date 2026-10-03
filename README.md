@@ -60,5 +60,5 @@ Depois abra `http://localhost:8000` no navegador.
 
 ## TODO LIST
 
-- Centralizar o popup no meio da tela horizontalmente
 - Se tem dois pinos com o mesmo endereço, tem que ter maneira de ver mais que um popup, talvez com setas
+- No popup tem texto que sai fora da div, exemplo de um email
