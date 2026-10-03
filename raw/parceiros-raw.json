@@ -98,5 +98,16 @@
     "instagram": "https://www.instagram.com/2iimobiliaria/",
     "endereco_texto": "Rua Açucena, 964, Jardim das Flores, Osasco, SP",
     "foto": "img/09-peter-lima.jpeg"
+  },
+  {
+    "id": "minas-gerais-imoveis",
+    "nome": "Minas Gerais Imóveis",
+    "empresa": null,
+    "creci": "J 9453",
+    "telefone": "(12) 3936-1917 (whatsapp: (12) 3936-1915)",
+    "site": "www.minasgerais.imb.br",
+    "instagram": null,
+    "endereco_texto": "AVENIDA CIDADE JARDIM, 4898 - BOSQUE DOS EUCALIPTOS, SJCAMPOS. CEP 12233-002",
+    "foto": "img/10-minas-gerais-imoveis.jpeg"
   }
 ]

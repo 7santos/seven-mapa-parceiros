@@ -133,5 +133,20 @@
     "lat": -23.5327725,
     "lon": -46.7930321,
     "foto": "img/09-peter-lima.jpeg"
+  },
+  {
+    "id": "minas-gerais-imoveis",
+    "nome": "Minas Gerais Imóveis",
+    "empresa": null,
+    "creci": "SP J 9453",
+    "telefone": "+55 (12) 3936-1917",
+    "email": null,
+    "site": "https://www.minasgerais.imb.br/",
+    "instagram": null,
+    "endereco": "Av. Cidade Jardim, 4898, Bosque dos Eucaliptos, São José dos Campos - SP, 12233-002",
+    "endereco_precisao": "endereco",
+    "lat": -23.2583156,
+    "lon": -45.8861495,
+    "foto": "img/10-minas-gerais-imoveis.jpeg"
   }
 ]
