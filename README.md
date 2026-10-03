@@ -57,3 +57,9 @@ Depois abra `http://localhost:8000` no navegador.
 - **Gabriel Navarro**: sem endereço de rua disponível — pin fica no centro de João Pessoa - PB
   (`endereco_precisao: "cidade"`, sinalizado no popup).
 - Todos os demais parceiros têm endereço de rua geocodificado com precisão.
+
+## TODO LIST
+
+- Ordenar a lista de parceiros à esquerda por ordem alfabética
+- Centralizar o popup no meio da tela horizontalmente
+- Se tem dois pinos com o mesmo endereço, tem que ter maneira de ver mais que um popup, talvez com setas
