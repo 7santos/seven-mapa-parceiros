@@ -148,5 +148,20 @@
     "lat": -23.2583156,
     "lon": -45.8861495,
     "foto": "img/10-minas-gerais-imoveis.jpeg"
+  },
+  {
+    "id": "jonas-valente",
+    "nome": "Jonas Valente",
+    "empresa": "Garden SJC Imóveis",
+    "creci": "SP 172.948",
+    "telefone": "+55 (12) 97403-8985",
+    "email": "diretoriavalente@gardensjcimoveis.com.br",
+    "site": "https://gardensjcimoveis.com.br",
+    "instagram": "https://www.instagram.com/gardensjcimoveis/",
+    "endereco": "Rua Nelson César de Oliveira, 470, Jardim das Indústrias, São José dos Campos - SP, 12240-220",
+    "endereco_precisao": "endereco",
+    "lat": -23.2274381,
+    "lon": -45.9210871,
+    "foto": "img/11-jonas-valente.jpeg"
   }
 ]

@@ -109,5 +109,16 @@
     "instagram": null,
     "endereco_texto": "AVENIDA CIDADE JARDIM, 4898 - BOSQUE DOS EUCALIPTOS, SJCAMPOS. CEP 12233-002",
     "foto": "img/10-minas-gerais-imoveis.jpeg"
+  },
+  {
+    "id": "jonas-valente",
+    "nome": "Jonas Valente",
+    "empresa": "Garden SJC Imóveis",
+    "creci": "172.948",
+    "telefone": "(12) 97403-8985",
+    "site": "https://gardensjcimoveis.com.br",
+    "instagram": "@gardensjcimoveis",
+    "endereco_texto": "Rua Nelson César de Oliveira, 470 - Jardim das Indústrias, São José dos Campos - SP, 12240-220",
+    "foto": "img/11-jonas-valente.jpeg"
   }
 ]
