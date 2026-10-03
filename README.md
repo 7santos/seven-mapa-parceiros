@@ -60,5 +60,5 @@ Depois abra `http://localhost:8000` no navegador.
 
 ## TODO LIST
 
-- Se tem dois pinos com o mesmo endereço, tem que ter maneira de ver mais que um popup, talvez com setas
-- No popup tem texto que sai fora da div, exemplo de um email
+- Se tem dois pinos com o mesmo endereço, tem que ter maneira de ver mais que um popup, talvez com setas.
+- Verificar se o telefone é whatsapp, e se for abrir link direto com whatsapp, e caso tenha os dois fazer diferenciação.
