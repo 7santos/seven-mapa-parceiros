@@ -36,7 +36,7 @@ function popupHtml(p) {
   const empresa = p.empresa ? `<div class="empresa">${escapeHtml(p.empresa)}</div>` : "";
   const creci = p.creci ? `<div class="campo"><strong>CRECI:</strong> ${escapeHtml(p.creci)}</div>` : "";
   const telefone = p.telefone
-    ? `<div class="campo"><strong>Tel:</strong> <a href="tel:${escapeHtml(p.telefone.replace(/\D/g, ""))}">${escapeHtml(p.telefone)}</a></div>`
+    ? `<div class="campo"><strong>Tel:</strong> ${escapeHtml(p.telefone)}</div>`
     : "";
   const email = p.email
     ? `<div class="campo"><strong>E-mail:</strong> <a href="mailto:${escapeHtml(p.email)}">${escapeHtml(p.email)}</a></div>`
@@ -47,6 +47,13 @@ function popupHtml(p) {
     : "";
 
   const links = [];
+  if (p.telefone) {
+    links.push(`<a class="btn-ligar" href="tel:${escapeHtml(p.telefone.replace(/\D/g, ""))}">📞 Ligar</a>`);
+  }
+  if (p.telefone_whatsapp) {
+    const numeroWhats = p.telefone_whatsapp.replace(/\D/g, "");
+    links.push(`<a class="btn-whatsapp" href="https://wa.me/${escapeHtml(numeroWhats)}" target="_blank" rel="noopener">💬 WhatsApp</a>`);
+  }
   if (p.site) links.push(`<a class="site" href="${escapeHtml(p.site)}" target="_blank" rel="noopener">Site</a>`);
   if (p.instagram) links.push(`<a class="instagram" href="${escapeHtml(p.instagram)}" target="_blank" rel="noopener">Instagram</a>`);
 

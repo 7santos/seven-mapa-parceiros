@@ -92,5 +92,37 @@ Foto: img/11-jonas-valente.jpeg
 
 12:
 Nome: Carpejane Leal da Silva
+Telefone: +55 62 9564-3866
 Creci: GO 34850
 Endereço: Rua 01 Qd.02 Lt.15 Bairro Eldorado, Anápolis - GO, 75115-410
+
+13:
+Nome: Sandra Yamamoto
+Telefone: (12) 98173-8464
+Site: https://sandrayamamoto.newcore.com.br
+Endereço: Caraguatatuba - SP
+Creci: 207779-F
+Empresa: Newcore
+Instagram: @newcoreapp
+
+14:
+Nome: Marcelo Freitas
+Telefone: (17) 99154-3138
+Site: https://galena150.github.io/galena/
+Endereço: Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000
+Creci: SP 307415
+Empresa: Galena Consultoria Imobiliária
+Instagram: https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy
+Email: galena.imob@gmail.com
+Foto: img/14-marcelo-freitas.jpeg
+
+15:
+Nome: José Mendes
+Telefone: +351 911 543 002
+Site: https://josemendes.dsguimaraes.pt/
+Endereço: Largo República do Brasil, 423, Guimarães, Portugal
+Creci:
+Empresa: Decisões e Soluções
+Instagram: @josemendes_seguros_creditos
+Email: josemanuelmendes@decisoesesolucoes.com
+Foto: img/15-jose-mendes.jpg

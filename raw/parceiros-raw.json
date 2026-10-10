@@ -126,10 +126,45 @@
     "nome": "Carpejane Leal da Silva",
     "empresa": null,
     "creci": "GO 34850",
-    "telefone": null,
+    "telefone": "+55 62 9564-3866",
     "site": null,
     "instagram": null,
     "endereco_texto": "Rua 01 Qd.02 Lt.15 Bairro Eldorado, Cep: 75115-410, Anápolis - Goiás",
     "foto": "img/12-carpejane-leal-da-silva.jpeg"
+  },
+  {
+    "id": "sandra-yamamoto",
+    "nome": "Sandra Yamamoto",
+    "empresa": "Newcore",
+    "creci": "207779-F",
+    "telefone": "(12) 98173-8464",
+    "site": "https://sandrayamamoto.newcore.com.br",
+    "instagram": "@newcoreapp",
+    "endereco_texto": "Caraguatatuba - SP",
+    "foto": "img/13-sandra-yamamoto.jpeg"
+  },
+  {
+    "id": "marcelo-freitas",
+    "nome": "Marcelo Freitas",
+    "empresa": "Galena Consultoria Imobiliária",
+    "creci": "307415",
+    "telefone": "(17) 99154-3138",
+    "email": "galena.imob@gmail.com",
+    "site": "https://galena150.github.io/galena/",
+    "instagram": "https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy",
+    "endereco_texto": "Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000",
+    "foto": "img/14-marcelo-freitas.jpeg"
+  },
+  {
+    "id": "jose-mendes",
+    "nome": "José Mendes",
+    "empresa": "Decisões e Soluções",
+    "creci": null,
+    "telefone": "+351 911 543 002",
+    "email": "josemanuelmendes@decisoesesolucoes.com",
+    "site": "https://josemendes.dsguimaraes.pt/",
+    "instagram": "@josemendes_seguros_creditos",
+    "endereco_texto": "Largo República Do Brasil 423, Guimarães, Portugal",
+    "foto": "img/15-jose-mendes.jpg"
   }
 ]
