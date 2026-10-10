@@ -178,5 +178,20 @@
     "lat": -16.3452396,
     "lon": -48.9463682,
     "foto": "img/12-carpejane-leal-da-silva.jpeg"
+  },
+  {
+    "id": "sandra-yamamoto",
+    "nome": "Sandra Yamamoto",
+    "empresa": "Newcore",
+    "creci": "SP 207779-F",
+    "telefone": "+55 (12) 98173-8464",
+    "email": null,
+    "site": "https://sandrayamamoto.newcore.com.br",
+    "instagram": "https://www.instagram.com/newcoreapp/",
+    "endereco": "Caraguatatuba, SP, Brasil",
+    "endereco_precisao": "cidade",
+    "lat": -23.62028,
+    "lon": -45.41306,
+    "foto": "img/13-sandra-yamamoto.jpeg"
   }
 ]

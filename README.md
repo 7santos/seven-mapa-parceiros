@@ -62,3 +62,4 @@ Depois abra `http://localhost:8000` no navegador.
 
 - Verificar se o telefone é whatsapp, e se for abrir link direto com whatsapp, e caso tenha os dois fazer diferenciação.
 - Adicionar o resto dos parceiros que a Mariana enviou.
+- Adicionar o favicon
