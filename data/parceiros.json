@@ -12,7 +12,8 @@
     "endereco_precisao": "cidade",
     "lat": -7.1215981,
     "lon": -34.882028,
-    "foto": "img/01-gabriel-navarro.jpeg"
+    "foto": "img/01-gabriel-navarro.jpeg",
+    "telefone_whatsapp": "+55 (83) 98795-1213"
   },
   {
     "id": "ana-paula-rossi",
@@ -27,7 +28,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.2583156,
     "lon": -45.8861495,
-    "foto": "img/02-ana-paula-rossi.jpeg"
+    "foto": "img/02-ana-paula-rossi.jpeg",
+    "telefone_whatsapp": "+55 (12) 98165-2037"
   },
   {
     "id": "christian-andreves-bugmann",
@@ -42,7 +44,8 @@
     "endereco_precisao": "endereco",
     "lat": -26.9115584,
     "lon": -49.1340621,
-    "foto": "img/03-christian-andreves-bugmann.jpeg"
+    "foto": "img/03-christian-andreves-bugmann.jpeg",
+    "telefone_whatsapp": "+55 (47) 99600-6227"
   },
   {
     "id": "rosvaldo",
@@ -57,7 +60,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.3021097,
     "lon": -45.9596929,
-    "foto": "img/04-rosvaldo.png"
+    "foto": "img/04-rosvaldo.png",
+    "telefone_whatsapp": "+55 (12) 98123-9993"
   },
   {
     "id": "gabriel-barretti",
@@ -72,7 +76,8 @@
     "endereco_precisao": "endereco",
     "lat": -22.7251021,
     "lon": -47.6518845,
-    "foto": "img/05-gabriel-barretti.jpeg"
+    "foto": "img/05-gabriel-barretti.jpeg",
+    "telefone_whatsapp": "+55 (19) 99518-3030"
   },
   {
     "id": "giovani-pivatto",
@@ -87,7 +92,8 @@
     "endereco_precisao": "endereco",
     "lat": -25.0862117,
     "lon": -50.1733299,
-    "foto": "img/06-giovani-pivatto.jpeg"
+    "foto": "img/06-giovani-pivatto.jpeg",
+    "telefone_whatsapp": "+55 (42) 98811-8299"
   },
   {
     "id": "nilson-ferreira-da-silva",
@@ -102,7 +108,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.2175007,
     "lon": -45.9053001,
-    "foto": "img/07-nilson-ferreira-da-silva.jpeg"
+    "foto": "img/07-nilson-ferreira-da-silva.jpeg",
+    "telefone_whatsapp": "+55 (12) 98114-3459"
   },
   {
     "id": "vicente-silva",
@@ -117,7 +124,8 @@
     "endereco_precisao": "endereco",
     "lat": -3.748362,
     "lon": -38.5054861,
-    "foto": "img/08-vicente-silva.jpeg"
+    "foto": "img/08-vicente-silva.jpeg",
+    "telefone_whatsapp": "+55 (85) 98997-2117"
   },
   {
     "id": "peter-lima",
@@ -132,7 +140,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.5327725,
     "lon": -46.7930321,
-    "foto": "img/09-peter-lima.jpeg"
+    "foto": "img/09-peter-lima.jpeg",
+    "telefone_whatsapp": "+55 (11) 98282-6524"
   },
   {
     "id": "minas-gerais-imoveis",
@@ -147,7 +156,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.2582156,
     "lon": -45.8860495,
-    "foto": "img/10-minas-gerais-imoveis.jpeg"
+    "foto": "img/10-minas-gerais-imoveis.jpeg",
+    "telefone_whatsapp": null
   },
   {
     "id": "jonas-valente",
@@ -162,7 +172,8 @@
     "endereco_precisao": "endereco",
     "lat": -23.2274381,
     "lon": -45.9210871,
-    "foto": "img/11-jonas-valente.jpeg"
+    "foto": "img/11-jonas-valente.jpeg",
+    "telefone_whatsapp": "+55 (12) 97403-8985"
   },
   {
     "id": "carpejane-leal-da-silva",
@@ -177,7 +188,8 @@
     "endereco_precisao": "endereco",
     "lat": -16.3452396,
     "lon": -48.9463682,
-    "foto": "img/12-carpejane-leal-da-silva.jpeg"
+    "foto": "img/12-carpejane-leal-da-silva.jpeg",
+    "telefone_whatsapp": "+55 (62) 9564-3866"
   },
   {
     "id": "sandra-yamamoto",
@@ -192,7 +204,8 @@
     "endereco_precisao": "cidade",
     "lat": -23.62028,
     "lon": -45.41306,
-    "foto": "img/13-sandra-yamamoto.jpeg"
+    "foto": "img/13-sandra-yamamoto.jpeg",
+    "telefone_whatsapp": "+55 (12) 98173-8464"
   },
   {
     "id": "marcelo-freitas",
@@ -207,7 +220,8 @@
     "endereco_precisao": "endereco",
     "lat": -21.0561206,
     "lon": -49.6872291,
-    "foto": "img/14-marcelo-freitas.jpeg"
+    "foto": "img/14-marcelo-freitas.jpeg",
+    "telefone_whatsapp": "+55 (17) 99154-3138"
   },
   {
     "id": "jose-mendes",
@@ -222,6 +236,7 @@
     "endereco_precisao": "endereco",
     "lat": 41.4414573,
     "lon": -8.2907792,
-    "foto": "img/15-jose-mendes.jpg"
+    "foto": "img/15-jose-mendes.jpg",
+    "telefone_whatsapp": "+351 911 543 002"
   }
 ]

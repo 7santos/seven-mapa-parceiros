@@ -307,6 +307,24 @@ header h1 {
   flex-wrap: wrap;
 }
 
+.popup-parceiro .links a.btn-ligar {
+  background: var(--cor-ouro);
+  color: #030303;
+}
+
+.popup-parceiro .links a.btn-ligar:hover {
+  background: var(--cor-ouro-claro);
+}
+
+.popup-parceiro .links a.btn-whatsapp {
+  background: #25d366;
+  color: #030303;
+}
+
+.popup-parceiro .links a.btn-whatsapp:hover {
+  background: #2ee676;
+}
+
 .popup-parceiro .links a {
   display: inline-block;
   padding: 5px 10px;

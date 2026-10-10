@@ -59,5 +59,3 @@ Depois abra `http://localhost:8000` no navegador.
 - Todos os demais parceiros têm endereço de rua geocodificado com precisão.
 
 ## TODO LIST
-
-- Verificar se o telefone é whatsapp, e se for abrir link direto com whatsapp, e caso tenha os dois fazer diferenciação.
