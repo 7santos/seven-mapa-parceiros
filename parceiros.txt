@@ -115,3 +115,14 @@ Empresa: Galena Consultoria Imobiliária
 Instagram: https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy
 Email: galena.imob@gmail.com
 Foto: img/14-marcelo-freitas.jpeg
+
+15:
+Nome: José Mendes
+Telefone: +351 911 543 002
+Site: https://josemendes.dsguimaraes.pt/
+Endereço: Largo República do Brasil, 423, Guimarães, Portugal
+Creci:
+Empresa: Decisões e Soluções
+Instagram: @josemendes_seguros_creditos
+Email: josemanuelmendes@decisoesesolucoes.com
+Foto: img/15-jose-mendes.jpg

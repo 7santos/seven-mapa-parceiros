@@ -154,5 +154,17 @@
     "instagram": "https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy",
     "endereco_texto": "Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000",
     "foto": "img/14-marcelo-freitas.jpeg"
+  },
+  {
+    "id": "jose-mendes",
+    "nome": "José Mendes",
+    "empresa": "Decisões e Soluções",
+    "creci": null,
+    "telefone": "+351 911 543 002",
+    "email": "josemanuelmendes@decisoesesolucoes.com",
+    "site": "https://josemendes.dsguimaraes.pt/",
+    "instagram": "@josemendes_seguros_creditos",
+    "endereco_texto": "Largo República Do Brasil 423, Guimarães, Portugal",
+    "foto": "img/15-jose-mendes.jpg"
   }
 ]

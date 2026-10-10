@@ -208,5 +208,20 @@
     "lat": -21.0561206,
     "lon": -49.6872291,
     "foto": "img/14-marcelo-freitas.jpeg"
+  },
+  {
+    "id": "jose-mendes",
+    "nome": "José Mendes",
+    "empresa": "Decisões e Soluções",
+    "creci": null,
+    "telefone": "+351 911 543 002",
+    "email": "josemanuelmendes@decisoesesolucoes.com",
+    "site": "https://josemendes.dsguimaraes.pt/",
+    "instagram": "https://www.instagram.com/josemendes_seguros_creditos/",
+    "endereco": "Largo República do Brasil, 423, Guimarães, Portugal",
+    "endereco_precisao": "endereco",
+    "lat": 41.4414573,
+    "lon": -8.2907792,
+    "foto": "img/15-jose-mendes.jpg"
   }
 ]
