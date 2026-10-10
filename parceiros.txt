@@ -104,3 +104,14 @@ Endereço: Caraguatatuba - SP
 Creci: 207779-F
 Empresa: Newcore
 Instagram: @newcoreapp
+
+14:
+Nome: Marcelo Freitas
+Telefone: (17) 99154-3138
+Site: https://galena150.github.io/galena/
+Endereço: Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000
+Creci: SP 307415
+Empresa: Galena Consultoria Imobiliária
+Instagram: https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy
+Email: galena.imob@gmail.com
+Foto: img/14-marcelo-freitas.jpeg

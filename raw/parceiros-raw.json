@@ -142,5 +142,17 @@
     "instagram": "@newcoreapp",
     "endereco_texto": "Caraguatatuba - SP",
     "foto": "img/13-sandra-yamamoto.jpeg"
+  },
+  {
+    "id": "marcelo-freitas",
+    "nome": "Marcelo Freitas",
+    "empresa": "Galena Consultoria Imobiliária",
+    "creci": "307415",
+    "telefone": "(17) 99154-3138",
+    "email": "galena.imob@gmail.com",
+    "site": "https://galena150.github.io/galena/",
+    "instagram": "https://www.instagram.com/galena.c.i?utm_source=qr&stkn=bzcwZDZ3M204Zmoy",
+    "endereco_texto": "Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000",
+    "foto": "img/14-marcelo-freitas.jpeg"
   }
 ]

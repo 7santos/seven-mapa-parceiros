@@ -193,5 +193,20 @@
     "lat": -23.62028,
     "lon": -45.41306,
     "foto": "img/13-sandra-yamamoto.jpeg"
+  },
+  {
+    "id": "marcelo-freitas",
+    "nome": "Marcelo Freitas",
+    "empresa": "Galena Consultoria Imobiliária",
+    "creci": "SP 307415",
+    "telefone": "+55 (17) 99154-3138",
+    "email": "galena.imob@gmail.com",
+    "site": "https://galena150.github.io/galena/",
+    "instagram": "https://www.instagram.com/galena.c.i/",
+    "endereco": "Avenida Antônio Gonçalves da Silva, 1543, São José, José Bonifácio - SP, 15200-000",
+    "endereco_precisao": "endereco",
+    "lat": -21.0561206,
+    "lon": -49.6872291,
+    "foto": "img/14-marcelo-freitas.jpeg"
   }
 ]
