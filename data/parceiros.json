@@ -238,5 +238,21 @@
     "lon": -8.2907792,
     "foto": "img/15-jose-mendes.jpg",
     "telefone_whatsapp": "+351 911 543 002"
+  },
+  {
+    "id": "cristian-do-amaral-zara",
+    "nome": "Cristian do Amaral Zara",
+    "empresa": "NØR & Co.",
+    "creci": "SP 315197",
+    "telefone": "+55 (12) 98877-6264",
+    "email": "ocristianzara@gmail.com",
+    "site": "https://www.cristianzara.com.br/",
+    "instagram": "https://www.instagram.com/ocristianzara/",
+    "endereco": "Centro, Campos do Jordão - SP",
+    "endereco_precisao": "cidade",
+    "lat": -22.738299,
+    "lon": -45.5903769,
+    "foto": "img/16-cristian-do-amaral-zara.jpeg",
+    "telefone_whatsapp": "+55 (12) 98877-6264"
   }
 ]

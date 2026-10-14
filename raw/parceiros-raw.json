@@ -166,5 +166,17 @@
     "instagram": "@josemendes_seguros_creditos",
     "endereco_texto": "Largo República Do Brasil 423, Guimarães, Portugal",
     "foto": "img/15-jose-mendes.jpg"
+  },
+  {
+    "id": "cristian-do-amaral-zara",
+    "nome": "Cristian do Amaral Zara",
+    "empresa": "NØR & Co.",
+    "creci": "SP 315197",
+    "telefone": "(12) 98877-6264",
+    "email": "ocristianzara@gmail.com",
+    "site": "https://www.cristianzara.com.br/",
+    "instagram": "@ocristianzara",
+    "endereco_texto": "Campos do Jordão SP Centro da Cidade",
+    "foto": "img/16-cristian-do-amaral-zara.jpeg"
   }
 ]

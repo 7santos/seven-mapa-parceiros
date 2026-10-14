@@ -126,3 +126,14 @@ Empresa: Decisões e Soluções
 Instagram: @josemendes_seguros_creditos
 Email: josemanuelmendes@decisoesesolucoes.com
 Foto: img/15-jose-mendes.jpg
+
+16:
+Nome: Cristian do Amaral Zara
+Telefone: (12) 98877-6264
+Site: https://www.cristianzara.com.br/
+Endereço: Centro, Campos do Jordão - SP
+Creci: SP 315197
+Empresa: NØR & Co.
+Instagram: @ocristianzara
+Email: ocristianzara@gmail.com
+Foto: img/16-cristian-do-amaral-zara.jpeg
